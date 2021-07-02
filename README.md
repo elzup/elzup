@@ -9,11 +9,11 @@
 
 History (2010 ~):
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&style=flat)
--> ![](https://img.shields.io/badge/-PHP-ccc.svg?logo=php&style=flat)
--> ![](https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat)
--> ![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
--> ![](https://img.shields.io/badge/-Swift-FA7343.svg?logo=swift&style=flat)
--> ![](https://img.shields.io/badge/-Javascript-000.svg?logo=javascript&style=flat)
--> ![](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
+![](https://img.shields.io/badge/-PHP-ccc.svg?logo=php&style=flat)
+![](https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat)
+![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
+![](https://img.shields.io/badge/-Swift-FA7343.svg?logo=swift&style=flat)
+![](https://img.shields.io/badge/-Javascript-000.svg?logo=javascript&style=flat)
+![](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
 
 <!-- [![elzup's github stats](https://github-readme-stats.vercel.app/api?username=elzup)](https://github.com/anuraghazra/github-readme-stats) -->
