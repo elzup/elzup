@@ -12,6 +12,7 @@
 History (2010 ~):
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&style=flat)
 ![](https://img.shields.io/badge/-PHP-442244.svg?logo=php&style=flat)
+![](https://img.shields.io/badge/-Java-4D77C3.svg?logo=java&style=flat)
 ![](https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat)
 ![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![](https://img.shields.io/badge/-Swift-662211.svg?logo=swift&style=flat)
