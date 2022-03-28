@@ -35,4 +35,20 @@
 
 }
 
+<a href="https://github.com/elzup#gh-light-mode-only">
+ 
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true)
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=buefy&text_color=333&include_all_commits=true&bg_color=30,ffffff,fafafa&hide=prs,issues&count_private=true)
+
+</a>
+
+
+<a href="https://github.com/elzup#gh-dark-mode-only">
+
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=dark&icon_color=fff&hide=stars,contribs&count_private=true)
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=nightowl&bg_color=151515&text_color=9f9f9f&include_all_commits=true&hide=prs,issues&count_private=true)
+
+</a>
+
+
 <!-- [![elzup's github stats](https://github-readme-stats.vercel.app/api?username=elzup)](https://github.com/anuraghazra/github-readme-stats) -->
