@@ -5,6 +5,10 @@ on:
     - cron: '1 1 1 * *'
   workflow_dispatch:
 
+env:
+  STATS_IMG_URL_LIGHT: "https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=dark&icon_color=fff&hide=stars,contribs&count_private=true"
+  STATS_IMG_URL_DARK: "https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=nightowl&bg_color=151515&text_color=9f9f9f&include_all_commits=true&hide=prs,issues&count_private=true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,8 +19,9 @@ jobs:
       - name: Cache images
         run: |
           mkdir img
-          curl https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=dark&icon_color=fff&hide=stars,contribs&count_private=true > img/stat-d.png
-          curl https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=nightowl&bg_color=151515&text_color=9f9f9f&include_all_commits=true&hide=prs,issues&count_private=true > img/stat-l.png
+          curl $STATS_IMG_URL_DARK > img/stat-d.svg
+          curl $STATS_IMG_URL_LIGHT > img/stat-l.svg
+          
       - name: Archive production artifacts
         uses: actions/upload-artifact@v3
         with:
