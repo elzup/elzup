@@ -37,15 +37,15 @@
 
 <a href="https://github.com/elzup#gh-light-mode-only">
  
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w1.svg)
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w2.svg)
+![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w1.svg#gh-light-mode-only)
+![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w2.svg#gh-light-mode-only)
 </a>
 
 
 <a href="https://github.com/elzup#gh-dark-mode-only">
  
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b1.svg)
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b2.svg)
+![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b1.svg#gh-dark-mode-only)
+![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b2.svg#gh-dark-mode-only)
 </a>
 
 
