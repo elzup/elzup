@@ -37,15 +37,16 @@
 
 <a href="https://github.com/elzup#gh-light-mode-only">
  
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w1.svg#gh-light-mode-only)
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_w2.svg#gh-light-mode-only)
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=swift&hide=stars,contribs&count_private=true&custom_title=elzup_github_stats#gh-light-mode-only)
+![elzup's GitHub summary](https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=vue&text_color=333&include_all_commits=true&hide=prs%2Cissues&count_private=true&rank_icon=percentile&custom_title=elzup_github_summary#gh-light-mode-only)
+
 </a>
 
-
 <a href="https://github.com/elzup#gh-dark-mode-only">
- 
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b1.svg#gh-dark-mode-only)
-![elzup's GitHub stats](https://raw.githubusercontent.com/elzup/github-stats/master/generated/stats_b2.svg#gh-dark-mode-only)
+
+![elzup's GitHub stats](https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=algolia&hide=stars,contribs&count_private=true&custom_title=elzup_github_stats#gh-dark-mode-only)
+![elzup's GitHub summary](https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=gotham&include_all_commits=true&hide=prs%2Cissues&count_private=true&rank_icon=percentile&custom_title=elzup_github_summary&text_color=ffffff#gh-dark-mode-only)
+
 </a>
 
 
